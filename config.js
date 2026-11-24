@@ -1,0 +1,1 @@
+window.SKST_CONFIG = {"url": "https://zpvfeeywceikdzlixwxc.supabase.co", "key": "sb_publishable_uC9vn1kaWIiLWL4dLxXgGw_BBFiV6mX", "adminEmail": "sksungaitau@gmail.com", "adminUid": "2bd382bc-169a-40c0-92b1-75b7910b57cb"};
